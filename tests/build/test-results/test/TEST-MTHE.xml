@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MTHE" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-01T17:51:25" hostname="2c40937e081b" time="25.021">
+  <properties/>
+  <testcase name="MTHE" classname="MTHE" time="25.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jun 01, 2024 7:51:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
